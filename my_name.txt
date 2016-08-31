@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 
 To remove icon for file open button.
+=======
+My name is Gergana
+I live in Sofia
+>>>>>>> origin/master
