@@ -1,1 +1,3 @@
-My name is Gergana
+
+
+To remove icon for file open button.
